@@ -87,8 +87,8 @@
 ## 📈Github Stats  
 
 <div align="center">
-<img src="https://github-readme-stats-phi-lyart-12.vercel.app/api?username=takafumi-dotsu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="216" />  
-<img src="https://github-readme-stats-phi-lyart-12.vercel.app/api/top-langs/?username=takafumi-dotsu&hide_border=true&layout=compact" height="216" />
+<img src="https://github-readme-stats-phi-lyart-12.vercel.app/api?username=takafumi-dotsu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="150" />  
+<img src="https://github-readme-stats-phi-lyart-12.vercel.app/api/top-langs/?username=takafumi-dotsu&hide_border=true&layout=compact" height="150" />
 </div>
 
 
