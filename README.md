@@ -1,104 +1,132 @@
-## 👋Hi there
-
-### <div align="center">I'm Takafumi Dotsu, a full-time full-stack developer, and designer 👨‍💻<br/>working remotely since 2021🚀<br/>I belong to Trente Information Systems Co., Ltd. 🏢</div>
-
 <div align="center">
 
-<a href="https://github.com/takafumi-dotsu" target="_blank">
-<img src=https://img.shields.io/static/v1?logo=GitHub&label=&message=GitHub&labelColor=2c2c32&color=007acc&logoColor=white alt=github />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dotsu.takafumi@trente-info.com" target="_blank">
-<img src=https://img.shields.io/static/v1?logo=gmail&label=&message=gmail&labelColor=2c2c32&color=007acc&logoColor=white alt=gmail />
-</a>
+<!-- ============================== HEADER ============================== -->
 
-</div>
+# 道津 隆文
 
-## 🌱My Skill Set
+###### Takafumi&nbsp;Dotsu
 
-<table>
-<tr>
-
-<td valign="top" width="33%">
-
-### Frontend
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td>
-</tr>
-</table>  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=560&height=42&lines=Full-Stack+Engineer+%26+Designer;Cloud+%C3%97+Cross-Platform+Developer;Craft+over+clutter." alt="taglines" />
 
 <br/>
 
-## 📈Github Stats  
+<img src="https://img.shields.io/badge/Remote-since%202021-21262D?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=white" alt="remote" />
+<img src="https://img.shields.io/badge/Trente%20Information%20Systems-21262D?style=flat-square&labelColor=0D1117&logo=building&logoColor=white" alt="company" />
+<img src="https://komarev.com/ghpvc/?username=takafumi-dotsu&style=flat-square&color=21262D&label=Profile%20Views" alt="views" />
 
-<div align="center">
-<img src="https://github-readme-stats-phi-lyart-12.vercel.app/api?username=takafumi-dotsu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="150" />  
-<img src="https://github-readme-stats-phi-lyart-12.vercel.app/api/top-langs/?username=takafumi-dotsu&hide_border=true&layout=compact" height="150" />
 </div>
 
+---
+
+## 👋&nbsp;&nbsp;はじめに
+
+フルスタックエンジニア兼デザイナーとして、2021年からトラント情報システムでリモートワークしています。
+
+フロントの画面設計からバックエンド、クラウドインフラ、クロスプラットフォームのクライアント開発まで、"つくる"工程を一気通貫で手がけます。設計の美しさと、コードの可読性・保守性に強くこだわります。シンプルで、洗練された、長く使えるものを。
+
+```text
+🧩  フロントエンドからインフラまで、一気通貫で開発する
+☁️  AWS サーバーレス (CDK / Lambda / Aurora) と .NET MAUI クロスプラットフォーム
+🎨  UI / UX デザインも自ら手がける
+🔐  セキュリティと品質を、常に最優先に
+```
+
+---
+
+## 🛠&nbsp;&nbsp;技術スタック
+
+#### フロントエンド
+
+![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-21262D?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-21262D?style=flat-square&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-21262D?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-21262D?style=flat-square&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-21262D?style=flat-square&logo=chakraui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-21262D?style=flat-square&logo=chartdotjs&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-21262D?style=flat-square&logo=webpack&logoColor=white)
+
+#### バックエンド
+
+![C#](https://img.shields.io/badge/C%23-21262D?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-21262D?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-21262D?style=flat-square&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-21262D?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-21262D?style=flat-square&logo=googleappsscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-21262D?style=flat-square&logo=jest&logoColor=white)
+
+#### クロスプラットフォーム / モバイル
+
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-21262D?style=flat-square&logo=dotnet&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-21262D?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-21262D?style=flat-square&logo=windows&logoColor=white)
+
+#### クラウド & インフラ
+
+![AWS](https://img.shields.io/badge/AWS-21262D?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-21262D?style=flat-square&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-21262D?style=flat-square&logo=amazons3&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-21262D?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-21262D?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-21262D?style=flat-square&logo=githubactions&logoColor=white)
+
+#### データベース
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-21262D?style=flat-square&logo=mariadb&logoColor=white)
+
+#### ツール
+
+![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-21262D?style=flat-square&logo=visualstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-21262D?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-21262D?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+## 📊&nbsp;&nbsp;GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy-neon.vercel.app/?username=takafumi-dotsu&theme=light&no-frame=true&margin-w=5" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=takafumi-dotsu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takafumi-dotsu&layout=compact&langs_count=8&hide_border=true&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="top langs" />
+
 </div>
 
-<br/>  
+---
 
+## 🏆&nbsp;&nbsp;Achievements
 
+<div align="center">
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://github-profile-trophy.vercel.app/?username=takafumi-dotsu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+
+</div>
+
+---
+
+## 📫&nbsp;&nbsp;連絡先
+
+<div align="center">
+
+<a href="https://github.com/takafumi-dotsu">
+<img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" alt="github" />
+</a>
+
+<br/><br/>
+
+<sub>Designed & crafted by Takafumi Dotsu — <em>Stay hungry, stay foolish.</em></sub>
+
+</div>
