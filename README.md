@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=takafumi-dotsu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=takafumi-dotsu&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=8B949E&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="contribution streak" />
 
 </div>
 
