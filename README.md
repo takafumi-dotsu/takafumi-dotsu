@@ -10,8 +10,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Remote-since%202021-21262D?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=white" alt="remote" />
-<img src="https://img.shields.io/badge/Trente%20Information%20Systems-21262D?style=flat-square&labelColor=0D1117&logo=building&logoColor=white" alt="company" />
+<img src="https://img.shields.io/badge/Trente%20Information%20Systems-21262D?style=flat-square&labelColor=0D1117" alt="company" />
+<img src="https://img.shields.io/badge/Since-2021-21262D?style=flat-square&labelColor=0D1117" alt="since" />
 <img src="https://komarev.com/ghpvc/?username=takafumi-dotsu&style=flat-square&color=21262D&label=Profile%20Views" alt="views" />
 
 </div>
@@ -20,16 +20,21 @@
 
 ## 👋&nbsp;&nbsp;はじめに
 
-フルスタックエンジニア兼デザイナーとして、2021年からトラント情報システムでリモートワークしています。
+2021年からトラント情報システムで、フルスタックエンジニア兼デザイナーとして働いています。
 
 フロントの画面設計からバックエンド、クラウドインフラ、クロスプラットフォームのクライアント開発まで、"つくる"工程を一気通貫で手がけます。設計の美しさと、コードの可読性・保守性に強くこだわります。シンプルで、洗練された、長く使えるものを。
 
-```text
-🧩  フロントエンドからインフラまで、一気通貫で開発する
-☁️  AWS サーバーレス (CDK / Lambda / Aurora) と .NET MAUI クロスプラットフォーム
-🎨  UI / UX デザインも自ら手がける
-🔐  セキュリティと品質を、常に最優先に
-```
+---
+
+## 🎯&nbsp;&nbsp;できること
+
+| 領域 | 内容 |
+|---|---|
+| ☁️&nbsp; クラウド | AWS サーバーレス設計・実装（CDK / Lambda / Aurora / Cognito / S3） |
+| 📱&nbsp; クロスプラットフォーム | .NET MAUI による iOS / Windows クライアント開発 |
+| 🧩&nbsp; フルスタック実装 | TypeScript・Node.js・C# / .NET・Python・Google Apps Script |
+| 🎨&nbsp; UI / UX デザイン | 画面設計・デザインシステム・アクセシビリティ（Figma） |
+| 🔐&nbsp; セキュリティ & 品質 | 脆弱性対応・コードレビュー文化・高い保守性 |
 
 ---
 
@@ -93,27 +98,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-21262D?style=flat-square&logo=visualstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-21262D?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-21262D?style=flat-square&logo=notion&logoColor=white)
-
----
-
-## 📊&nbsp;&nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=takafumi-dotsu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takafumi-dotsu&layout=compact&langs_count=8&hide_border=true&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="top langs" />
-
-</div>
-
----
-
-## 🏆&nbsp;&nbsp;Achievements
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=takafumi-dotsu&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=8B949E&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="contribution streak" />
-
-</div>
 
 ---
 
