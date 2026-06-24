@@ -108,6 +108,9 @@
 <a href="https://github.com/takafumi-dotsu">
 <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" alt="github" />
 </a>
+<a href="https://github.com/t-dotsu">
+<img src="https://img.shields.io/badge/Personal-%40t--dotsu-21262D?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="personal account" />
+</a>
 
 <br/><br/>
 
